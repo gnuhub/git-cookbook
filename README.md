@@ -9,7 +9,7 @@ why
 ```
 In order to build development environments whith confidence
 As a developer using chef
-I want to test infrastructure using test-kitchen
+I want to test chef infrastructure code using test-kitchen
 ```
 
 how
