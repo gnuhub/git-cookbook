@@ -16,7 +16,6 @@ how
 ================
 
 ## install
-```
 1. install ChefDK
 2. install test-kitchen gem
 ```
