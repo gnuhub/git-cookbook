@@ -1,7 +1,7 @@
 what
 ==============
 
-test-kitch example git-cookbook
+test-kitchen example git-cookbook
 
 why
 ===============
