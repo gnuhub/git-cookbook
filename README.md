@@ -16,12 +16,12 @@ how
 ================
 
 ## install
-1. install ChefDK
-2. install test-kitchen gem
+1 install ChefDK
+2 install test-kitchen gem
 ```
 gem install test-kitchen
 ```
-3. add `gem "test-kitchen" ` to your project's Gemfile. 
+3 add `gem "test-kitchen" ` to your project's Gemfile. 
 ```
 bundle install
 ```
