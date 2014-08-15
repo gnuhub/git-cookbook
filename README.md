@@ -6,12 +6,15 @@ test-kitch example git-cookbook
 why
 ===============
 
+```
 In order to build development environments whith confidence
 As a developer using chef
 I want to test infrastructure using test-kitchen
+```
 
 how
 ================
+
 ## install
 ```
 1. install ChefDK
