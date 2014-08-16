@@ -1,3 +1,5 @@
+[![Build Status](http://home.gnuhub.com:8080/buildStatus/icon?job=git-cookbook)](http://home.gnuhub.com:8080/job/git-cookbook/)
+
 what
 ==============
 
